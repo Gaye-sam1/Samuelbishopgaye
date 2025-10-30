@@ -1,6 +1,5 @@
-# Samuelbishopgaye
 
-# 👋 Hi, I'm Samuel B. Gaye  
+# Hi, I'm Samuel B. Gaye  
 
 🎓 I'm a 3rd-semester B.Tech student in **Artificial Intelligence** at **Marwadi University**, Rajkot, India.  
 💡 I’m passionate about **Machine Learning, AI, and Data Science** — and I’m on a journey to become one of the best in my field.  
