@@ -14,4 +14,4 @@ Currently learning: Python, Machine Learning, and Git.
 
 ### Connect with Me
 - 📧 **Email:** gayesamuelbishop@gmail.com   
-- 🧩 **GitHub:** [github.com/samulebishopgaye](https://github.com/samuelbishopgaye)
+- 🧩 **GitHub:** [github.com/samuelbishopgaye](https://github.com/samuelbishopgaye)
